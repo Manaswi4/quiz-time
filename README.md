@@ -1,2 +1,9 @@
-# quiz-time
-A stylish and responsive JavaScript quiz game with score tracking, progress bar, and pastel theme design.
+# Quiz Time
+
+A responsive quiz game built with HTML, CSS, and JavaScript.
+
+## Features
+
+- Multiple-choice questions
+- Score tracking
+- Progress bar
